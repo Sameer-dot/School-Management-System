@@ -1,5 +1,5 @@
 # School-Management-System
-A desktop application based School Management System is build from scratch in different phases. Language used while building this project is Java.
+A desktop application based School Management System is build from scratch in different phases. Language used while building this project is Java and for database we used SQL.
 
 Deliverable Details:
 DELIVERABLE 0 -> Propsal 
