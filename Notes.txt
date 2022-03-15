@@ -1,0 +1,29 @@
+Project Name:
+SCHOOL MANAGEMENT SYSTEM
+
+Software's Used:
+Eclipse 
+Sql Server
+
+Group Members:
+Sameed Ahmed (19L-2257)(Section-C)
+Muhammad Sameer (19L-2311)(Section-D) 
+Muhammad Hamza (19L-0907)(SECTION-D)
+Khizar Nadeem (19L-1075)(Section-D)
+
+--------------------------
+
+DELIVERABLE - 0 -> Propsal
+DELIVERABLE - 1 -> Class Diagram
+DELIVERABLE - 2 -> Use-Case Diagram + Description
+DELIVERABLE - 3 -> Design Class Diagram + Sequence Diagrams
+DELIVERABLE - 4 -> GUI's (Front End)by using Jswing
+DELIVERABLE - 5 -> Complete Implementation in JAVA
+
+---------------------------
+
+Link of Recording:
+https://www.dropbox.com/s/sy7kgzv4lknx9vn/themomentyouleftideleted%20on%202022-01-01%2013-36.mp4?dl=0
+
+Note: In this project we were not able to implement
+      all the functionalities.
